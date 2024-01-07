@@ -4,7 +4,7 @@ public class B10106020 {
 
 	public B10106020() {
 		// TODO Auto-generated constructor stub
-		// add test
+		// add test 02
 	}
 
 	public static void main(String[] args) {
